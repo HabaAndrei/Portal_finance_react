@@ -1,7 +1,9 @@
 ## Technologies
 
-Through React, I've developed a user-friendly interface for the client. 
-WebSocket is utilized to receive real-time prices and news from the server.
+- Through React, I've developed a user-friendly interface for the client. 
+- WebSocket is utilized to receive real-time prices and news from the server.
+- Deployed on [smartwiki.site](https://portalfinancechart.site)
+
 
 ## Description
 
