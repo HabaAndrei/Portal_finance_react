@@ -36,7 +36,7 @@ Each page has its own functionality and is divided into two parts: `Primul.js` +
    The function 'trimitemEroareaInNode' helps us send errors the client encounters to the server where a team can take care of seeing the error and resolving it or giving suggestions to the client.
 
 - **LineChart.js**
-- 
+  
    In this page, I return a chart for prices which I import on every page where I need a chart. Mostly I use it on pages where I need a chart with instant prices per second.
   I m using Lightweight Charts.
 
